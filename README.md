@@ -9,10 +9,12 @@ This project provides a REST API for managing spatial data (points and polygons)
 ## Features
 - Add and retrieve multiple points or polygons.
 
-## Prerequisites
-1. Python 3.x installed on your system.
-2. SQL Server installed locally or on a server.
-3. Required Python packages: `Flask`, `pyodbc`.
+## Prerequisites 
+1 mongodb installed for data retrieve and store
+## Techstacks
+1. Nodejs
+2. Mongodb
+3. Express.js
 
 ## Installation
 1. Clone the repository:
